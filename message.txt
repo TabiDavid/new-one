@@ -1,0 +1,41 @@
+After completing the assignment, be sure to push to Github and Heroku.
+Please answer the questions in this text file and submit it to I-Learn.
+
+1. Copy and paste the URL for your web application (e.g., Heroku):
+
+https://app-book-david.herokuapp.com
+
+2. Copy and paste the URL for your source code repository (e.g., GitHub):
+
+https://github.com/TabiDavid/app-book1.git
+
+3. Briefly list and describe the elements of the application that are functioning. 
+
+Seem that everything id working now but is thanks to the guidance, from the course.
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+
+There was not working the 404 page becuase there was one parameter that I could not define but I fix it. 
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+
+I like that in the course I am learning to make a ecommerce page, where I can use to sell products, manage databases, 
+
+it is something I really looking for. 
+
+6. If you could change this assignment to be more effective or helpful, what would you change?
+
+I think is not necesary change something, but I can say I have some strogle with the English language but I am doing my best to \
+
+understand everything. 
+
+7. Please select the category you feel best describes your assignment:
+   1 - Some attempt was made
+   2 - Developing, but significantly deficient
+   3 - Slightly deficient, but still mostly adequate
+   *4 - Meets requirements
+   5 - Shows creativity and excels above and beyond requirements
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+
+I think all the requirements are there but I think the design and everything else require more work. 
